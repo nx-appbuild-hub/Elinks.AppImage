@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Elinks Browser
+GenericName=Elinks Browser
+Comment=Elinks is a text browser for the World Wide Web. 
+Exec=AppRun %F
+Terminal=true
+X-MultipleArgs=false
+Type=Application
+Icon=elinks
+Categories=Network;WebBrowser;
+StartupWMClass=elinks
+StartupNotify=true

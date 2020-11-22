@@ -1,0 +1,1 @@
+# Elinks.AppImage
